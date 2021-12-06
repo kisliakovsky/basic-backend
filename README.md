@@ -1,5 +1,7 @@
 # basic-backend
-The project represents a simple server app with an embedded database providing an example of REST API for Create and Read operations
+The project represents a simple server app with an embedded database providing an example of REST API for Create and Read operations.  
+  
+*The project was created for practice of students of Intelligent Systems Theory in ITMO University.*
 
 ## Technologies
 ### Frameworks  
